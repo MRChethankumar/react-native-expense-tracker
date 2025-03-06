@@ -1,14 +1,14 @@
 import { StyleSheet, Text, View } from 'react-native'
 import React from 'react'
 
-const RecentExpenses = () => {
+const _layout = () => {
   return (
     <View>
-      <Text>RecentExpense</Text>
+      <Text>_layout</Text>
     </View>
   )
 }
 
-export default RecentExpenses
+export default _layout
 
 const styles = StyleSheet.create({})
